@@ -4,6 +4,5 @@ wildcards/**
 .vscode/
 .idea/
 subpack
-impact_subpack
 *.txt
 *.yaml

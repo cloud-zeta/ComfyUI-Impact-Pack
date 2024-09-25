@@ -1,3 +1,3 @@
-[submodule "subpack"]
-	path = subpack
-	url = https://github.com/ltdrdata/ComfyUI-Impact-Subpack
+[submodule "impact_subpack"]
+	path = impact_subpack
+	url = git@github.com:ltdrdata/ComfyUI-Impact-Subpack.git
